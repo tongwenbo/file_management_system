@@ -1,2 +1,2 @@
-# file_management_system
+# student_test_results_management_system
 This is the course project of C/C++ Programming, which is a student exam results management system written by C++.
